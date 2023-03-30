@@ -1,0 +1,79 @@
+div {
+    margin-left: 20%;
+    border-radius: 10px;
+    width: 60%;
+    background-color:#068258;
+    text-align: center;
+    margin-bottom: 15px;
+} 
+ul{
+    margin: 4%;
+    border-radius: 20px;
+    width: 60%;
+}
+#messages{
+    width: 60%;
+    height: 490px;
+    border: 2px black solid;
+    background-color: #fff;
+    overflow:scroll;
+}
+form{
+    margin: 10px;
+}
+select{
+    border-radius: 10px;
+    width:20%;
+}
+#err{
+    background-color: red;
+} 
+input {
+   
+    width: 50%;
+    color: black;
+    font-size: 30px;
+    border-radius: 10px;
+} 
+#button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 20%;
+    outline: none;
+    font-size: 17px;
+    color: #f4f4f4;
+    background-color: black;
+    border-radius: 10px;
+}
+.ebtn,.dbtn{
+    width: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.dbtn{
+    background-color: red;
+}
+.ebtn{
+    background-color: green;
+}
+header{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #068258;
+}
+h1 ,p {
+    text-align:center;
+}
+.items {
+    background-color:#06c2f6;
+}
+.Rahul{
+    background-color: #06c2f6;
+    margin-left:36%;
+}
+.Sandesh{
+    background-color: #f4f4f4;
+}
+.Vaibhav{
+    background-color: aliceblue;
+}
