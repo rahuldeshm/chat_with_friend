@@ -1,79 +1,63 @@
 div {
-    margin-left: 20%;
-    border-radius: 10px;
-    width: 60%;
-    background-color:#068258;
-    text-align: center;
-    margin-bottom: 15px;
-} 
-ul{
-    margin: 4%;
-    border-radius: 20px;
-    width: 60%;
+  border-radius: 10px;
+  width: 100%;
+  background-color: #068258;
+  text-align: center;
+  margin-bottom: 15px;
 }
-#messages{
-    width: 60%;
-    height: 490px;
-    border: 2px black solid;
-    background-color: #fff;
-    overflow:scroll;
+ul {
+  border-radius: 20px;
+  width: 60%;
 }
-form{
-    margin: 10px;
+#messages {
+  width: 100%;
+  height: 490px;
+  border: 2px black solid;
+  background-color: #fff;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
-select{
-    border-radius: 10px;
-    width:20%;
+form {
+  margin: 10px;
 }
-#err{
-    background-color: red;
-} 
+select {
+  border-radius: 10px;
+  width: 20%;
+}
+#err {
+  background-color: red;
+}
 input {
-   
-    width: 50%;
-    color: black;
-    font-size: 30px;
-    border-radius: 10px;
-} 
-#button{
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 20%;
-    outline: none;
-    font-size: 17px;
-    color: #f4f4f4;
-    background-color: black;
-    border-radius: 10px;
+  width: 50%;
+  color: black;
+  font-size: 30px;
+  border-radius: 10px;
 }
-.ebtn,.dbtn{
-    width: 20px;
-    border-radius: 10px;
-    margin-bottom: 10px;
+#button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 20%;
+  outline: none;
+  font-size: 17px;
+  color: #f4f4f4;
+  background-color: black;
+  border-radius: 10px;
 }
-.dbtn{
-    background-color: red;
+
+header {
+  background-color: #068258;
 }
-.ebtn{
-    background-color: green;
-}
-header{
-    margin-left: 20%;
-    margin-right: 20%;
-    background-color: #068258;
-}
-h1 ,p {
-    text-align:center;
+h1,
+p {
+  text-align: center;
 }
 .items {
-    background-color:#06c2f6;
+  background-color: #06c2f6;
 }
-.Rahul{
-    background-color: #06c2f6;
-    margin-left:36%;
+.Rahul {
+  background-color: #06c2f6;
+  margin-left: 30%;
 }
-.Sandesh{
-    background-color: #f4f4f4;
-}
-.Vaibhav{
-    background-color: aliceblue;
+.Sandesh {
+  background-color: #f4f4f4;
 }
